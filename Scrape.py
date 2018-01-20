@@ -5,13 +5,12 @@ import os
 import subprocess
 
 # Application Key and Application Secret from app.twitter.com
-APP_KEY = 'AzOXf1QIO4LUjbi7zpD0RzH6m'
-APP_SECRET = 'tInkuiCumvbsuBcsBje7vi2yfUi4AdQyVKrvm2M429jGcsjcT9'
+APP_KEY = 'Enter Here'
+APP_SECRET = 'Enter Here'
+ACCESS_TOKEN = 'Enter Here'
 
-ACCESS_TOKEN = ('AAAAAAAAAAAAAAAAAAAAANQQ2wAAAAAASOUsj2IFaj%2BlQCOPeJiijU0GH50%3Dw9cdMLGIGpiN82aY2AbfTyjvEOSBu8vLrHF6u093CkQ4n7S73m')
-
-OAUTH_TOKEN = '724142590459826176-kpVZJ6mwP1oN3iMp9e3lccY0Rz8rL3M'
-OAUTH_TOKEN_SECRET = 'BTw0VhVcp7mws7CzDwGSUwyzpApyIsxxz9Wj8toqzgND7'
+OAUTH_TOKEN = 'Enter Here'
+OAUTH_TOKEN_SECRET = 'Enter Here'
 
 
 class MyStreamer(TwythonStreamer):
